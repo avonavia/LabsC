@@ -34,7 +34,7 @@ int main(int)
     printf("\nSumma =" " %f", summa);
     printf("\nAverage =" " %f", av);
 
-     free(A)
+     free(M);
     _getch();
 }
 
